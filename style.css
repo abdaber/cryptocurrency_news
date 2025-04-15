@@ -1,0 +1,22 @@
+body {
+  background: #1a1a1a;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+#results {
+  margin-top: 20px;
+}
+
+.article {
+  background: #333;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
