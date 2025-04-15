@@ -1,11 +1,11 @@
 # Crypto News Aggregator
 
-A Rust-based service that collects and displays the latest cryptocurrency news from CoinGecko.
+A Rust-based service that collects and displays the latest cryptocurrency news from NewsAPI.
 
 ## Features
 
 - Search news by cryptocurrency name or symbol
-- Fetch data from CoinGeckoAPI
+- Fetch data from NewsAPI
 - Display news title, source, date, and summary
 
 ## Usage
